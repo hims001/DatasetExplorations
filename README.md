@@ -1,2 +1,2 @@
-# DatasetExplorations
-ML Hands-On
+# Dataset Explorations
+ML Hands-On on datasets
